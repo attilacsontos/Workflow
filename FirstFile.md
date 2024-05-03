@@ -16,3 +16,9 @@ Date: 2024-05-03
 Author: Bertrand
 
 Description: changed the initial text from Attila in order to see what happens with "conflicts" in the code when trying to merge.
+
+---
+Date: 2024-05-03
+Author: Bertrand
+
+This is a new modification. It doesn't have any conflict as it's only an addition to the existing code.
