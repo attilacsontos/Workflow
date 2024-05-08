@@ -37,3 +37,9 @@ Author: Bertrand
 
 Trying to see how this change is going to be authorized and tracked.
 --> it's directly committed and merged. There is no validation of any kind.
+
+---
+Date: 2024-05-08
+Author: Bertrand
+
+Trying to do the same from VS Code (the same being checking what are the validation steps if any)
