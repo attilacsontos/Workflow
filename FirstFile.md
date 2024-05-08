@@ -50,3 +50,4 @@ Date: 2024-05-08
 Author: Bertrand
 
 Hypothesis : the absence of merge is because it was done on the "Main" branch directly. Let see how it goes when a new branch is created.
+--> It works as described in the note from Attila = push is OK, then pull request, then merge.
