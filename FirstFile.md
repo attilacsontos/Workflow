@@ -22,3 +22,11 @@ Date: 2024-05-03
 Author: Bertrand
 
 This is a new modification. It doesn't have any conflict as it's only an addition to the existing code.
+
+---
+Date: 2024-05-06
+Author: Bertrand
+
+Another Attempt at cloning, this time by following instructions from this page : https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=command-palette
+
+It seems to be working.g
