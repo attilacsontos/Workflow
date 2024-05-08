@@ -30,3 +30,9 @@ Author: Bertrand
 Another Attempt at cloning, this time by following instructions from this page : https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=command-palette
 
 It seems to be working.
+
+---
+Date: 2024-05-08
+Author: Bertrand
+
+Trying to see how this change is going to be authorized and tracked.
