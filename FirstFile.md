@@ -44,3 +44,9 @@ Author: Bertrand
 
 Trying to do the same from VS Code (the same being checking what are the validation steps if any)
 --> It's also directly committed and merged. There was no validation.
+
+---
+Date: 2024-05-08
+Author: Bertrand
+
+Hypothesis : the absence of merge is because it was done on the "Main" branch directly. Let see how it goes when a new branch is created.
